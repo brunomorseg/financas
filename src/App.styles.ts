@@ -1,24 +1,18 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
-export const Container = styled.div`
-  
-
-`;
+export const Container = styled.div``;
 
 export const Header = styled.div`
-    width: 100vw;
     background-color: darkblue;
     height: 150px;
     text-align: center;
 `;
 
-export const HeaderText = styled.div`
-    padding: 0;
+export const HeaderText = styled.h1`
     margin: 0;
+    padding: 0;
+    color: #FFF;
     padding-top: 30px;
-    color: white;
-    font-weight: bolder;
-    font-size: 2.2em;
 `;
 
 export const Body = styled.div`
