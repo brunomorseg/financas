@@ -12,7 +12,7 @@ export const Header = styled.div`
     text-align: center;
 `;
 
-export const HeaderH1 = styled.div`
+export const HeaderText = styled.div`
     padding: 0;
     margin: 0;
     padding-top: 30px;
